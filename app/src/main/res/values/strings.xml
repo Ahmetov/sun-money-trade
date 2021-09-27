@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdventureFriend</string>
+    <string name="components_title">Все компоненты android</string>
+    <string name="input_login">Введите имя</string>
+    <string name="input_password">Введите пароль</string>
+    <string name="send_button_text">Отправить</string>
+    <string name="change_image">Лицо вкл/выкл</string>
+    <string name="currency_converter">Обмен золота</string>
+    <string name="currency_hint">Введите количество солнечных монет</string>
+    <string name="type_hint">Введите число</string>
+</resources>
